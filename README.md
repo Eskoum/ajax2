@@ -32,6 +32,14 @@ l'interface du gestion des machines par marque :
 ![image](https://github.com/Eskoum/ajax2/assets/147450023/7c1b5022-7b52-45da-a866-66656dec9d21)
 
 
+graphe qui represente les nombres des machines par marque : 
+
+
+
+![image](https://github.com/Eskoum/ajax2/assets/147450023/0b1adb30-e5c1-4a57-8093-74a0688daeee)
+
+
+
 
 
 
